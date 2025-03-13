@@ -8,4 +8,4 @@ def hello_world():
 
 @app.route("/page")
 def page():
-    return "<p>yo im a rapper, more like a wrapper. i eat banana, you eat canada</p>"
+    return "<h1>yo im a rapper, more like a wrapper. i eat banana, you eat canada</h1>"
